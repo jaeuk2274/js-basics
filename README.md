@@ -16,3 +16,6 @@ const cleanToDos = toDos.filter(function(toDo) {
 ```  
  
 - fetch, then  
+
+- API
+    - https://openweathermap.org/
